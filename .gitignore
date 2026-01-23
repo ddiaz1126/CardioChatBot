@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# GCP service account keys
+*.json
+service-account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
