@@ -5,6 +5,7 @@
 
 # GCP service account keys
 *.json
+!notebooks/prompt_examples.json
 service-account*.json
 
 # Python
